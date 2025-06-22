@@ -41,7 +41,7 @@ This scatterplot shows a positive correlation between **population density** and
 ## 🔗 Medium Blog
 
 📝 Read the full story on Medium:  
-[👉 Insert your Medium blog link here 👈]
+[👉 https://medium.com/@modeleke61/what-no₂-says-about-abuja-mapping-air-pollution-and-population-with-python-earth-engine-f8b33613ad13 👈]
 
 ---
 
