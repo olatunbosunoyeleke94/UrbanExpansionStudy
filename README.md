@@ -35,7 +35,6 @@ This scatterplot shows a positive correlation between **population density** and
 | `abuja_no2_analysis.ipynb` | Main Python notebook with full analysis |
 | `NO2_vs_Population_by_LandCover_Abuja.png` | Scatterplot of NO₂ vs population |
 | `Abuja_NO2_2019_2025.gif` | Animated visualization of NO₂ over time |
-| `NO2_vs_Population_by_LandCover_Abuja.pdf` | One-page PDF report (optional) |
 
 ---
 
